@@ -1,3 +1,5 @@
+# Collins Wanga
+
 foodCharge=eval(input("enter the food charge:  "))
 tip=foodCharge*0.18
 print(format(tip, '.2f'))
